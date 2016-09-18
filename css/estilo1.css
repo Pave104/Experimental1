@@ -1,0 +1,56 @@
+
+
+
+#cabecalho{
+	text-align: center;
+	border: 10px;color: black;
+	background-color: olive;
+    background-image: url("image/logo.jpeg");
+    background-repeat :none;
+     width: 800px;
+     height: 150px;
+ }
+ 
+ #cabecalho h1{
+ 	font-size: 48pt;
+ 	font-family: calligrapher;
+ 	text-align: center;
+        color:gold;
+ text-decoration: 
+ }
+ #navegacao ul{
+   padding: 0px;
+   margin: 0px
+   background-color:#EDEDED;
+     list-style: none;
+ }
+
+ #navegacao ul li{
+ 	display: inline;
+ font-size: 14pt
+ }
+
+  #container{
+  	background:gold;
+  width: 800px;
+  height: 800px;
+  }
+
+  #navegacao li{
+  	padding: 0 10px;
+  border-right: 1px solid;
+  }
+  #navegacao ul li a{
+  	padding: 2px 10px;
+  display: inline-block;
+  border-bottom:3px solid #EDEDED;
+  }
+  #container{
+  	
+  	background-image: url(image/lavandeira.jpeg);
+ 
+  }
+  #navegacao{
+
+  	background-color:aqua;
+  }
