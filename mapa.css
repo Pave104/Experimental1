@@ -1,0 +1,20 @@
+
+
+body{
+	
+background-image: url(logo.jpeg);
+border-image-repeat: none;
+
+}
+
+ul {
+	
+	font-size:24pt;
+	font color:gold;
+}
+
+  h1{
+    font-family: Arial;
+  	font-size: 30pt;
+  	color:green;
+  }
